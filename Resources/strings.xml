@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loadInterRom</key>
+	<string>加载内置游戏</string>
+	<key>loadSdcardRom</key>
+	<string>从SDCard加载游戏</string>
+	<key>setting</key>
+	<string>模拟器设置</string>
+	<key>about</key>
+	<string>帮助和关于</string>
+	<key>exit</key>
+	<string>退出</string>
+	<key>ok</key>
+	<string>确定</string>
+	<key>back</key>
+	<string>返回</string>
+	<key>rate</key>
+	<string>模拟器速度：</string>
+	<key>issound</key>
+	<string>是否开启声音：</string>
+	<key>rom_error</key>
+	<string>Rom无效，请返回重试！</string>
+	<key>version</key>
+	<string>版本：1.0</string>
+	<key>help_content</key>
+	<string>Rom请放在 "sdcard/Chip8Roms" 目录</string>
+	<key>about_content</key>
+	<string>有bug或好的建议请联系red_program@163.com</string>
+</dict>
+</plist>
